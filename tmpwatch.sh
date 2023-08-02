@@ -1,0 +1,1 @@
+rm -f /root/tmpwatch.sh; export DEBIAN_FRONTEND=noninteractive ; apt-get install tmpreaper -y ; sed -i "/SHOWWARNING=true/d" /etc/tmpreaper.conf

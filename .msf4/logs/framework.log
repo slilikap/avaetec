@@ -1,0 +1,68 @@
+[08/29/2022 15:55:22] [e(0)] core: Failed to connect to the database: No database YAML file
+[08/29/2022 15:55:22] [d(0)] core: Created user based module store
+[08/29/2022 15:55:27] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[08/29/2022 15:55:27] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[08/29/2022 15:55:29] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[08/29/2022 15:55:29] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[08/29/2022 15:55:31] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[08/29/2022 16:01:45] [e(0)] core: Module exploit/multi/http/wp_404-to-301_xss not found, and no loading errors found. If you're using a custom module refer to our wiki: https://github.com/rapid7/metasploit-framework/wiki/Running-Private-Modules
+[08/29/2022 17:42:32] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[08/31/2022 13:22:42] [e(0)] core: Failed to connect to the database: No database YAML file
+[08/31/2022 13:22:46] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[08/31/2022 13:22:46] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[08/31/2022 13:22:48] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[08/31/2022 13:22:48] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[08/31/2022 13:22:51] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[08/31/2022 13:23:35] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[10/04/2022 02:00:22] [e(0)] core: Failed to connect to the database: No database YAML file
+[10/04/2022 02:00:29] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[10/04/2022 02:00:29] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[10/04/2022 02:00:31] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[10/04/2022 02:00:31] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[10/04/2022 02:00:34] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[10/04/2022 04:14:43] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[11/08/2022 19:48:20] [e(0)] core: Failed to connect to the database: No database YAML file
+[11/08/2022 19:48:20] [d(0)] core: Updated user based module store
+[11/08/2022 19:48:25] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/08/2022 19:48:25] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/08/2022 19:48:27] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/08/2022 19:48:27] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/08/2022 19:48:30] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[11/08/2022 19:49:29] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[11/26/2022 03:00:52] [e(0)] core: Failed to connect to the database: No database YAML file
+[11/26/2022 03:00:57] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/26/2022 03:00:57] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/26/2022 03:00:59] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/26/2022 03:01:00] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/26/2022 03:01:06] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[11/26/2022 03:06:32] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[01/24/2023 19:53:16] [e(0)] core: Failed to connect to the database: No database YAML file
+[01/24/2023 19:53:16] [d(0)] core: Updated user based module store
+[01/24/2023 19:53:21] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[01/24/2023 19:53:21] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[01/24/2023 19:53:23] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[01/24/2023 19:53:23] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[01/24/2023 19:53:27] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[01/24/2023 19:56:43] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[02/07/2023 03:27:22] [e(0)] core: Failed to connect to the database: No database YAML file
+[02/07/2023 03:27:27] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[02/07/2023 03:27:27] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[02/07/2023 03:27:29] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[02/07/2023 03:27:30] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[02/07/2023 03:27:32] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[02/07/2023 05:42:53] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[04/12/2023 02:46:10] [e(0)] core: Failed to connect to the database: No database YAML file
+[04/12/2023 02:46:16] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[04/12/2023 02:46:16] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[04/12/2023 02:46:19] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[04/12/2023 02:46:19] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[04/12/2023 02:46:22] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[04/12/2023 03:06:13] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[06/09/2023 18:11:46] [e(0)] core: Failed to connect to the database: No database YAML file
+[06/09/2023 18:11:46] [d(0)] core: Updated user based module store
+[06/09/2023 18:11:53] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[06/09/2023 18:11:53] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[06/09/2023 18:11:57] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[06/09/2023 18:11:57] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[06/09/2023 18:12:01] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[06/09/2023 19:10:22] [d(0)] core: HistoryManager.pop_context name: :msfconsole

@@ -1,0 +1,23 @@
+# Nmap 7.60 scan initiated Sat Nov 26 02:03:42 2022 as: nmap -v -sV -Pn --script http-frontpage-login.nse -o falsoemail.xml 93.184.43.108
+Increasing send delay for 93.184.43.108 from 0 to 5 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 93.184.43.108 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 93.184.43.108 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 93.184.43.108 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 93.184.43.108 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 93.184.43.108 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 93.184.43.108 from 160 to 320 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 93.184.43.108 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 93.184.43.108 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Nmap scan report for 93.184.43.108
+Host is up (0.043s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE VERSION
+25/tcp  open  smtp    Microsoft Exchange smtpd
+80/tcp  open  http    Microsoft IIS httpd 7.5
+|_http-server-header: Microsoft-IIS/7.5
+587/tcp open  smtp    Microsoft Exchange smtpd
+Service Info: Hosts: mail.lsaquitaine.fr, LSA-SERV1.lsa.lan; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Nov 26 02:23:54 2022 -- 1 IP address (1 host up) scanned in 1212.42 seconds

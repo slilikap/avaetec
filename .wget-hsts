@@ -1,0 +1,9 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+sitewebmotors.com.br	0	0	1665507707	31536000
+gist.github.com	0	1	1664932788	31536000
+bin.equinox.io	0	1	1687139698	31536000
+github.com	0	1	1661796282	31536000
+svn.nmap.org	0	0	1661287664	31536000
+jitpack.io	0	1	1681264348	31536000
