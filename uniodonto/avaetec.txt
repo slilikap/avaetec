@@ -1,0 +1,40 @@
+/.git/HEAD           [33m (Status: 403)[0m [Size: 699]
+/.htaccess           [33m (Status: 403)[0m [Size: 699]
+/.htpasswd           [33m (Status: 403)[0m [Size: 699]
+/.hta                [33m (Status: 403)[0m [Size: 699]
+/.svn/entries        [33m (Status: 403)[0m [Size: 699]
+/.svn                [33m (Status: 403)[0m [Size: 699]
+/~admin              [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~admin/][0m
+/~administrator      [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~administrator/][0m
+/~apache             [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~apache/][0m
+/~bin                [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~bin/][0m
+/~ftp                [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~ftp/][0m
+/~amanda             [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~amanda/][0m
+/~guest              [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~guest/][0m
+/~adm                [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~adm/][0m
+/~httpd              [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~httpd/][0m
+/~log                [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~log/][0m
+/~logs               [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~logs/][0m
+/~lp                 [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~lp/][0m
+/~root               [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~root/][0m
+/~nobody             [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~nobody/][0m
+/~http               [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~http/][0m
+/~operator           [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~operator/][0m
+/~mail               [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~mail/][0m
+/~sysadm             [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~sysadm/][0m
+/~sys                [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~sys/][0m
+/~sysadmin           [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~sysadmin/][0m
+/~test               [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~test/][0m
+/~tmp                [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~tmp/][0m
+/~www                [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~www/][0m
+/~user               [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~user/][0m
+/~webmaster          [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/~webmaster/][0m
+/apis                [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/apis/][0m
+/assets              [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/assets/][0m
+/css                 [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/css/][0m
+/fonts               [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/fonts/][0m
+/images              [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/images/][0m
+/index.html          [32m (Status: 200)[0m [Size: 34408]
+/js                  [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/js/][0m
+/loja                [36m (Status: 301)[0m [Size: 707][34m [--> https://avaetec.com/loja/][0m
+/robots.txt          [32m (Status: 200)[0m [Size: 677]
